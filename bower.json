@@ -1,0 +1,23 @@
+{
+  "name": "bine-template",
+  "version": "0.1",
+  "authors": [
+    "Torsten Wilms <t.wilms@billiton.de>"
+  ],
+  "description": "Template for bine-kosmetik.de",
+  "main": "stylesheets/screen.css",
+  "keywords": [
+    "bine"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
